@@ -1,0 +1,12 @@
+7239:suspense:El Misterio Del Cuarto Amarillo:Leroux, Gaston:13,25:25
+9345:historico:Emperador de Roma:Mary Beard:27,90:35
+10343:romántico:el Amor que dejamos Atrás:Rebecca Yarros:18,90:20
+11565:ccff:Vibora:Andrzej Sapkowski:18,95:23
+23269:aventuras:Los tres mosqueteros:Alexandre Dumas:12:30
+23413:ccff:Adios A La Tierra:Isaac Asimov:18:40
+34853:suspense:La Paciente Silenciosa:Michaelides, Alex:10,40:15
+40846:romántico:Prohibido Creer en Historias de Amor:Javier Ruescas:16,10:20
+41908:historico:Lo que América le debe a España:Marcelo Gullo:21,90:30
+53074:aventuras:Robinson Crusoe:Daniel Defoe:12:40
+
+
